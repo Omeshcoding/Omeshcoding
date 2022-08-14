@@ -1,8 +1,9 @@
 # Profile
 
-<div width="100%" align="center">Hi I'm Umesh Sharma
-I'm a  Self-Taught Frontend Web Developer
-🌍 I'm based in India
+<div width="100%" align="center">
+<h1>Hi I'm Umesh Sharma</h1>
+<p>I'm a  Self-Taught Frontend Web Developer
+🌍 I'm based in India</p>
 </div>
 
 ### Skills
