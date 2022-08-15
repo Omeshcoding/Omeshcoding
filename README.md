@@ -2,9 +2,8 @@
 <h1>Hi I'm Umesh Sharma</h1>
 <p>I'm a  Self-Taught Frontend Web Developer
 🌍 I'm based in India</p>
-</div>
 
-<h2>Skills</h2>
+<h2 width="100%" align="center">Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,17 +13,17 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-<h2>Tools</h2>
+<h2 width="100%" align="center">Tools</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h2>Socials</h2>
-
-<p align="left"> <a href="https://www.github.com/Omeshcoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/umeshsharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<h2 width="100%" align="center">Socials</h2>
+<div width="100%" align="center">
+<p align="left"> <a href="https://www.github.com/Omeshcoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<h2 width="100%" align="center">My GitHub Stats</h2>
 
 <a href="http://www.github.com/Omeshcoding" align ='center'><img src="https://github-readme-stats.vercel.app/api?username=Omeshcoding&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Omeshcoding's GitHub stats" /></a>
 
@@ -41,3 +40,5 @@
 <h2>Music</h2>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+</div>
