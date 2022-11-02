@@ -1,7 +1,9 @@
 <div width="100%" align="center">
 <h1>Hi I'm Umesh Sharma</h1>
-<p>I'm a  Self-Taught Frontend Web Developer
-🌍 I'm based in India</p>
+<p>I'm a  Self-Taught Frontend Web Developer 🌍 I'm based in India. I have always been interested in how a certain technologies work and this intrest has pulled me to get in this field.
+  Web development got more into me when back in 2013 I asked my computer teacher that he did not tech us how to really build a website.
+  Below are the stacks that I know currently.
+</p>
 
 <h2 width="100%" align="center">Skills</h2>
 
@@ -19,7 +21,7 @@
 
 <h2 width="100%" align="center">Socials</h2>
 <div width="100%" align="center">
-<p align="left"> <a href="https://www.github.com/Omeshcoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/Omeshcoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 
 ### Badges
 
