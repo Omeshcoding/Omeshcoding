@@ -1,8 +1,8 @@
 <div width="100%" align="center">
 <h1>Hi I'm Umesh Sharma</h1>
-<p>I'm a  Self-Taught Frontend Web Developer 🌍 I'm based in India. I have always been interested in how a certain technologies work and this interest has pulled me to get in this field.
-  Web development got more into me when back in 2013 I asked my computer teacher that he did not tech us how to really build a website.
-  Below are the stacks that I know currently.
+<p>I'm a  Self-Taught Frontend Web Developer 🌍 I'm based in India. I have always been interested in how a certain technologies work and this interest has pulled me to get in this beautiful world of Web Development.
+<!--   Web development got more into me when back in 2013 I asked my computer teacher that he did not tech us how to really build a website.
+  Below are the stacks that I know currently. -->
 </p>
 
 <h2 width="100%" align="center">Skills</h2>
