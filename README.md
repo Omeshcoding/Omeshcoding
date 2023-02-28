@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Omeshcoding.visitor-badge)
 <div width="100%" align="center">
 <h1>Hi I'm Umesh Sharma</h1>
 <p>I'm a  Self-Taught Frontend Web Developer 🌍 I'm based in India. I have always been interested in how a certain technologies work and this interest has pulled me to get in this beautiful world of Web Development.
