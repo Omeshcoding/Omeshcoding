@@ -1,6 +1,6 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Omeshcoding.visitor-badge)
+
 <div width="100%" align="center">
-<p>I'm a Self-Taught Frontend Developer. I am currently learning Next.JS to expand my skillset. Stay tuned for my latest projects on GitHub!
+<p>I'm a Full-Stack Software Engineer creating Exceptional Web Experiences. Stay tuned for my latest projects on GitHub!
 </p>
   <h2 width="100%" align="center">Skills</h2>
 
