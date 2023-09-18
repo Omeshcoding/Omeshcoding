@@ -6,15 +6,10 @@
 
  </p><p align="left"> <a href="https://twitter.com/omesha_sh" target="blank"><img src="https://img.shields.io/twitter/follow/omesha_sh?logo=twitter&style=for-the-badge" alt="omesha_sh" /></a> </p>
   
-> Simple is better than  complex.
+> "All learning meets us exactly where we're at.
   
-> Complex is better than complicated.
+> And as we grow greater, we understand better."
   
-> Flat is better than nested.
-  
-> Sparse is better than dense.
-  
->        -The Zen of Python
 
   <div align="left">
 -  🔭 I’m currently working on **Petcare Webapp**
@@ -97,5 +92,23 @@
 <h2>Music</h2>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+> Simple is better than  complex.
+  
+> Complex is better than complicated.
+  
+> Flat is better than nested.
+  
+> Sparse is better than dense.
+  
+>        -The Zen of Python
 
+> Simple is better than  complex.
+  
+> Complex is better than complicated.
+  
+> Flat is better than nested.
+  
+> Sparse is better than dense.
+  
+>        -The Zen of Python
 </div>
