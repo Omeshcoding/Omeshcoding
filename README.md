@@ -107,13 +107,5 @@ I believe Collaboration and teamwork are at the heart of technology as everythin
   
 >        -The Zen of Python
 
-> Simple is better than  complex.
-  
-> Complex is better than complicated.
-  
-> Flat is better than nested.
-  
-> Sparse is better than dense.
-  
->        -The Zen of Python
+
 </div>
