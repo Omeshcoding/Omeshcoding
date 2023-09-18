@@ -4,12 +4,14 @@
 <h1 align="center">Hi 👋, I'm Umesh Sharma</h1>
 <h3 align="center">I am a Full-Stack Developer and Freelancer</h3>
 
- </p><p align="left"> <a href="https://twitter.com/omesha_sh" target="blank"><img src="https://img.shields.io/twitter/follow/omesha_sh?logo=twitter&style=for-the-badge" alt="omesha_sh" /></a> </p>
+
   
 > "All learning meets us exactly where we're at.
   
 > And as we grow greater, we understand better."
   
+ </p><p align="left"> <a href="https://twitter.com/omesha_sh" target="blank"><img src="https://img.shields.io/twitter/follow/omesha_sh?logo=twitter&style=for-the-badge" alt="omesha_sh" /></a> </p>
+
 
   <div align="left">
 -  🔭 I’m currently working on **Petcare Webapp**
