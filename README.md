@@ -2,7 +2,10 @@
 
 <div width="100%" >
 <h1 align="center">Hi 👋, I'm Umesh Sharma</h1>
-<h3 align="center">I am a Full-Stack Developer and Freelancer</h3>
+<h3 align="center">I am a Full-Stack Developer.</h3>
+<h6>I'm passionate about technology and I am curious about how things work. I love learning fast while understanding the intricacies of the tech and applying it to build projects. I love working with people while collaborating and sharing my knowledge to build some amazing projects while learning from them as well.
+I believe Collaboration and teamwork are at the heart of technology as everything we see around us has been built with the joint efforts of the people.
+</h6>  
 
 
   
