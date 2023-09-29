@@ -17,11 +17,11 @@ I believe Collaboration and teamwork are at the heart of technology as everythin
 
 
   <div align="left">
--  🔭 I’m currently working on **Petcare Webapp**
+-  🔭 I’m currently working on various projects **on of which is Petopia a pet care app.**
 
--  🌱 I’m currently learning **Testing**
+-  🌱 I’m currently learning **End to End Testing using Jest**
 
--  👯 I’m looking to collaborate on **Full-stack projects**
+-  👯 I’m looking for opportunities if you have any feel free to send it through.
 
 -  💬 Ask me about **JavaScript**
 
