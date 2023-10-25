@@ -2,8 +2,8 @@
 
 <div width="100%" >
 <h1 align="center">Hi 👋, I'm Umesh Sharma</h1>
-<h3 align="center">I am a Full-Stack Developer.</h3>
-<h6>I'm passionate about technology and I am curious about how things work. I love learning fast while understanding the intricacies of the tech and applying it to build projects. I love working with people while collaborating and sharing my knowledge to build some amazing projects while learning from them as well.
+<h3 align="center">I am a Software Engineer.</h3>
+<h6>I'm love technology and I am curious about how things work. I love learning and understanding the intricacies of the tech and applying it to build cool projects. I love working with people while collaborating and sharing my knowledge to build some amazing projects while learning from them as well.
 I believe Collaboration and teamwork are at the heart of technology as everything we see around us has been built with the joint efforts of the people.
 </h6>  
 
@@ -17,7 +17,7 @@ I believe Collaboration and teamwork are at the heart of technology as everythin
 
 
   <div align="left">
--  🔭 I’m currently working on various projects **on of which is Petopia a pet care app.**
+-  🔭 I’m currently working on various projects **on of which is Scoiable a social media app.**
 
 -  🌱 I’m currently learning **End to End Testing using Jest**
 
