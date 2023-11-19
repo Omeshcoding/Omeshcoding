@@ -19,7 +19,7 @@ I believe Collaboration and teamwork are at the heart of technology as everythin
   <div align="left">
 -  🔭 I’m currently working on various projects **on of which is Scoiable a social media app.**
 
--  🌱 I’m currently learning **End to End Testing using Jest**
+-  🌱 I’m currently learning **End to End Testing using Cypress**
 
 -  👯 I’m looking for opportunities if you have any feel free to send it through.
 
