@@ -21,7 +21,7 @@ I believe Collaboration and teamwork are at the heart of technology as everythin
 
 -  🌱 I’m currently learning **End to End Testing using Cypress**
 
--  👯 I’m looking for opportunities if you have any feel free to send it through.
+-  👯 I’m looking for opportunities as a JavaScript Developer.
 
 -  💬 Ask me about **JavaScript**
 
