@@ -1,9 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeshcoding&label=Profile%20views&color=0e75b6&style=flat" alt="omeshcoding" />
 
 <div width="100%" >
-<h1 align="center">Hi 👋, I'm Umesh Sharma</h1>
-<h3 align="center">I am a Software Engineer.</h3>
-<h6>I love technology and I am curious about how things work. I love learning and understanding the intricacies of the tech and applying it to build cool projects. I love working with people while collaborating and sharing my knowledge to build some amazing projects while learning from them as well.
+<h1 align="center">Hi 👋, I'm Umesh Sharma a Full-Stack Software Engineer</h1>
+<h3 align="center">I mostly use stack's related to JavaScript Ecosystem.</h3>
+<h6>I am passionate about learning and it includes a wide range of topics including science, art, design, history, which also includes tech. 
+I love learning more about the core fundamentals of the tech to get a better understanding of it.
 I believe Collaboration and teamwork are at the heart of technology as everything we see around us has been built with the joint efforts of the people.
 </h6>  
 
