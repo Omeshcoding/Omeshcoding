@@ -15,7 +15,7 @@
   <div align="left">
 -  🔭 I’m currently working on various projects **on of which is Scoiable a social media app.**
 
--  🌱 I’m currently learning **End to End Testing using Cypress**
+-  🌱 I’m currently learning **TypeScript**
 
 -  👯 I’m looking for opportunities as a JavaScript Developer.
 
