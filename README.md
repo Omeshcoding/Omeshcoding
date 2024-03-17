@@ -17,7 +17,7 @@
 
 -  🌱 I’m currently learning **TypeScript**
 
--  👯 I’m looking for opportunities as a JavaScript Developer.
+-  👯 Are you looking for a Full-stack Developer with a specialization in frontend then connect with me on  <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank">Linkedin</a>.
 
 -  💬 Ask me about **JavaScript**
 
