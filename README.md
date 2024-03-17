@@ -3,11 +3,6 @@
 <div width="100%" >
 <h1 align="center">Hi 👋, I'm Umesh Sharma a Full-Stack Software Engineer</h1>
 <h3 align="center">I mostly use stack's related to JavaScript Ecosystem.</h3>
-<h6>I am passionate about learning and it includes a wide range of topics including science, art, design, history, which also includes tech. 
-I love learning more about the core fundamentals of the tech to get a better understanding of it.
-I believe Collaboration and teamwork are at the heart of technology as everything we see around us has been built with the joint efforts of the people.
-</h6>  
-
 
   
 > "All learning meets us exactly where we're at.
