@@ -2,7 +2,7 @@
 
 <div width="100%" >
 <h1 align="center">Hi 👋, I'm Umesh Sharma a Full-Stack Software Engineer</h1>
-<h3 align="center">I mostly use stack's related to JavaScript Ecosystem.</h3>
+<h3 align="center">I'm a software developer specializing in full-stack development, currently working on a POS system web app, Social media app, and CarEase  car comparing web app. I often times take a role in the UI/UX design process, frontend, and backend development while sometimes leading the team to achieve the goal. I am interested in building cool user interfaces with users in mind, building to make robust backend systems. In my free time, I enjoy contributing to open-source projects, learning new tools, and improving my knowledge by reading various articles.</h3>
 
   
 > "All learning meets us exactly where we're at.
@@ -88,6 +88,15 @@
 <a href="http://www.github.com/Omeshcoding" align='center'><img src="https://activity-graph.herokuapp.com/graph?username=Omeshcoding&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Omeshcoding" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omeshcoding&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<h2>Some of my Projects</h2>  
+<a href="https://sociable-webapp.onrender.com/login" target="blank">Sociable</a> - Social media webapp
+<a href="https://subhamangalplanning.netlify.app" target="blank">SubhaMangalPlanning</a> - A wedding management webapp with AI Integration
+<a href="https://carease.vercel.app/" target="blank">CarEase</a> - A car comparing web app.
+<a href="https://eatinglight.netlify.app" target="blank">Eating Light</a> - A food delivery App
+
 
 
 <h2>Music</h2>
