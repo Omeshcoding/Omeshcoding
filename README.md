@@ -1,9 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeshcoding&label=Profile%20views&color=0e75b6&style=flat" alt="omeshcoding" />
 
 <div width="100%" >
-<h1 align="center">Hi 👋, I'm Umesh Sharma a Full-Stack Software Engineer</h1>
-<h3 align="center">I'm a software developer specializing in full-stack development, currently working on a POS system web app, Social media app, and CarEase  car comparing web app. I often times take a role in the UI/UX design process, frontend, and backend development while sometimes leading the team to achieve the goal. I am interested in building cool user interfaces with users in mind, building to make robust backend systems. In my free time, I enjoy contributing to open-source projects, learning new tools, and improving my knowledge by reading various articles.</h3>
+<h1>Welcome to My GitHub!</h1>
+  
+<h2 >Transforming Ideas into Reality with Full-Stack Development</h2>
+  
+<h3>Hi, I'm Umesh Sharma</h3>
+<h5>👨‍💻 Full-Stack Developer | 🚀 Passionate Programmer | 🌟 Collaboration Enthusiast</h5>
 
+<h3>About Me:</h3>
+<p>I'm a full-stack developer with a passion for creating efficient, user-friendly web applications. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success.</p>
   
 > "All learning meets us exactly where we're at.
   
@@ -13,13 +19,13 @@
 
 
   <div align="left">
--  🔭 I’m currently working on various projects **on of which is Scoiable a social media app.**
+-  🔭 I’m currently working on various projects ** Sociable, CarEase, WebCrawler**
 
--  🌱 I’m currently learning **TypeScript**
+-  🌱 I’m currently learning **TypeScript, React Native**
 
--  👯 Are you looking for a Full-stack Developer with a specialization in frontend then connect with me on  <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank">Linkedin</a>.
+-  👯 Are you looking for a Full-stack Developer or a Front-end Developer with a specialization in frontend then connect with me on  <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank">Linkedin</a>.
 
--  💬 Ask me about **JavaScript**
+-  💬 Ask me about **JavaScript, React, React Ecosystem,**
 
 </div>
 <div width="100%" align="center">
@@ -32,7 +38,6 @@
 </div>
   </div>
   
-
 
 <div width="100%" align="center">
 
@@ -77,8 +82,7 @@
 <div width="100%" align="center">
 
 
-### Badges
-[![@omesha's Holopin board](https://holopin.me/omesha)](https://holopin.io/@omesha)
+
 <h2 width="100%" align="center">My GitHub Stats</h2>
 
 <a href="http://www.github.com/Omeshcoding" align ='center'><img src="https://github-readme-stats.vercel.app/api?username=Omeshcoding&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Omeshcoding's GitHub stats" /></a>
@@ -92,11 +96,14 @@
 
 
 <h2>Some of my Projects</h2>  
-<a href="https://sociable-webapp.onrender.com/login" target="blank">Sociable</a> - Social media webapp
-<a href="https://subhamangalplanning.netlify.app" target="blank">SubhaMangalPlanning</a> - A wedding management webapp with AI Integration
-<a href="https://carease.vercel.app/" target="blank">CarEase</a> - A car comparing web app.
-<a href="https://eatinglight.netlify.app" target="blank">Eating Light</a> - A food delivery App
+<div align='left'>
+  
+- <a href="https://sociable-webapp.onrender.com/login" target="blank">Sociable</a> - Social media webapp 
+- <a href="https://subhamangalplanning.netlify.app" target="blank">SubhaMangalPlanning</a> - A wedding management webapp with AI Integration
+- <a href="https://carease.vercel.app/" target="blank">CarEase</a> - A car comparing web app.
+- <a href="https://eatinglight.netlify.app" target="blank">Eating Light</a> - A food delivery App
 
+</div>
 
 
 <h2>Music</h2>
@@ -112,5 +119,8 @@
   
 >        -The Zen of Python
 
+
+### Badges
+[![@omesha's Holopin board](https://holopin.me/omesha)](https://holopin.io/@omesha)
 
 </div>
