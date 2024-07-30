@@ -3,7 +3,7 @@
 <div width="100%" >
 <h1>Welcome to My GitHub!</h1>
   
-<h2 >Transforming Ideas into Reality with Full-Stack Development</h2>
+<h2 >Transforming Ideas into Reality with JavaScript</h2>
   
 <h3>Hi, I'm Umesh Sharma</h3>
 <h5>👨‍💻 Full-Stack Developer | 🚀 Passionate Programmer | 🌟 Collaboration Enthusiast</h5>
