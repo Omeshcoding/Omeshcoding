@@ -3,13 +3,13 @@
 <div width="100%" >
 <h1>Welcome to My GitHub!</h1>
   
-<h2 >Transforming Ideas into Reality with JavaScript</h2>
+<h2 >Hi, I'm Umesh Sharma</h2>
   
-<h3>Hi, I'm Umesh Sharma</h3>
-<h5>👨‍💻 Full-Stack Developer | 🚀 Passionate Programmer | 🌟 Collaboration Enthusiast</h5>
+<h3>Transforming Ideas into Reality with JavaScript</h3>
+<h5>👨‍💻 Full-Stack Developer | 🚀 Passionate Programmer | 🌟 Collaboration Enthusiast </h5>
 
 <h3>About Me:</h3>
-<p>I'm a full-stack developer with a passion for creating efficient, user-friendly web applications. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success.</p>
+<p>I'm a full-stack developer who loves creating efficient, user-friendly end-to-end web applications. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success. Interested in BlockChain, Web3.</p>
   
 > "All learning meets us exactly where we're at.
   
@@ -19,13 +19,13 @@
 
 
   <div align="left">
--  🔭 I’m currently working on various projects ** Sociable, CarEase, WebCrawler**
+-  🔭 Projects that I am working on ** Sociable, FocusFlow**
 
--  🌱 I’m currently learning **TypeScript, React Native**
+-  🌱 Learning Mobile application development **React Native**
 
--  👯 Are you looking for a Full-stack Developer or a Front-end Developer with a specialization in frontend then connect with me on  <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank">Linkedin</a>.
+-  👯 Are you looking for a Software Engineer with knowledge in frontend and backend development then connect with me on  <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank">Linkedin</a>.
 
--  💬 Ask me about **JavaScript, React, React Ecosystem,**
+-  💬 Ask me about **JavaScript, React, React Ecosystem, Styling**
 
 </div>
 <div width="100%" align="center">
@@ -104,11 +104,8 @@
 - <a href="https://eatinglight.netlify.app" target="blank">Eating Light</a> - A food delivery App
 
 </div>
-
-
-<h2>Music</h2>
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+<div align='center'>
+<h2>Some of my Projects</h2>  
 > Simple is better than  complex.
   
 > Complex is better than complicated.
@@ -116,6 +113,8 @@
 > Flat is better than nested.
   
 > Sparse is better than dense.
+
+</div>
   
 >        -The Zen of Python
 
