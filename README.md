@@ -1,47 +1,48 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeshcoding&label=Profile%20views&color=0e75b6&style=flat" alt="omeshcoding" />
 
 <div width="100%" >
-<h1>Welcome to My GitHub!</h1>
+<p >Hi, I'm Umesh Sharma. I am a Software Engineer at 100Devs, dedicated to leveraging technology to drive meaningful advancements within the industry and beyond. I have successfully led and delivered a diverse range of projects while collaborating with teams across various time zones.</p>
   
-<h2 >Hi, I'm Umesh Sharma</h2>
-  
-<h3>Transforming Ideas into Reality with JavaScript</h3>
-<h5>👨‍💻 Full-Stack Developer | 🚀 Passionate Programmer | 🌟 Collaboration Enthusiast </h5>
-
 <h3>About Me:</h3>
-<p>I'm a full-stack developer who loves creating efficient, user-friendly end-to-end web applications. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success. Interested in BlockChain, Web3.</p>
+<p>I'm a full-stack developer who loves creating efficient, user-friendly end-to-end web applications. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success. Interested in AI, BlockChain, Web3.</p>
   
-> "All learning meets us exactly where we're at.
+
   
-> And as we grow greater, we understand better."
-  
- </p><p align="left"> <a href="https://twitter.com/omesha_sh" target="blank"><img src="https://img.shields.io/twitter/follow/omesha_sh?logo=twitter&style=for-the-badge" alt="omesha_sh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/omesha_sh" target="blank"><img src="https://img.shields.io/twitter/follow/omesha_sh?logo=twitter&style=for-the-badge" alt="omesha_sh" /></a> </p>
 
 
   <div align="left">
--  🔭 Projects that I am working on ** Sociable, FocusFlow**
+-  🔭 Projects that I am working on  <strong> Sociable, FocusFlow</strong>
 
--  🌱 Learning Mobile application development **React Native**
+-  Learning Mobile application development with **React Native**
+  
+-  💬 Ask me about **JavaScript, React, React Ecosystem, CSS, Node**
 
--  👯 Are you looking for a Software Engineer with knowledge in frontend and backend development then connect with me on  <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank">Linkedin</a>.
-
--  💬 Ask me about **JavaScript, React, React Ecosystem, Styling**
-
-</div>
-<div width="100%" align="left">
-<h3 >Connect with me:</h3>
+- Are you in the process of seeking a Software Engineer possessing proficiencies in both client-side and server-side development paradigms? If so, I invite you to establish a connection with me at the following platforms
 <p >
 <a href="https://twitter.com/omesha_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omesha_sh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/umesh-sharma-aa6674131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umesh-sharma-aa6674131/" height="30" width="40" /></a>
-
 </p>
+<div align='left'>
+<h3>Key Projects</h3>  
+  
+- <a href="https://sociable-webapp.onrender.com/login" target="blank">Sociable</a> - Sociable is an innovative and interactive photo-sharing web application aimed at enhancing connections among users.  
+- <a href="https://subhamangalplanning.netlify.app" target="blank">SubhaMangalPlanning</a> -  A wedding management webapp with AI Integration. SubhMangal Planning is an all-encompassing event planning platform aimed at optimizing the organization and management of notable events, 
+- <a href="https://carease.vercel.app/" target="blank">CarEase</a> - A car comparing web app. CarEase is a Fullstack web app built with NextJs. It is a platform for the car enthusiasts to browse the listed cars and compare them so that they can make the best decision while purchasing their dream car. 
+- <a href="https://eatinglight.netlify.app" target="blank">Eating Light</a> - A web application developed using React for food delivery services. This platform serves as a primary resource for consumers seeking convenient access to a variety of culinary options. The application features an intuitive user interface, engineered to optimize the food ordering process, ensuring a seamless and user-centric experience.
+</div>
+
+
+</div>
+<div width="100%" align="left">
+
 </div>
   </div>
   
 
-<div width="100%" align="center">
+<div width="100%" align="left">
 
-  <h2 width="100%" align="center">Languages and Tools:</h2>
+  <h3 width="100%" align="left">Technical Skills</h3>
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,7 +64,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<h2 width="100%" align="center">Tools</h2>
+<h3 width="100%" align="left">Tools</h3>
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -75,16 +76,16 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<h2 width="100%" align="center">Deployment</h2>
+<h2 width="100%" align="left">Deployment</h2>
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
-<div width="100%" align="center">
+<div width="100%" align="left">
 
 
 
-<h2 width="100%" align="center">My GitHub Stats</h2>
+<h3 width="100%" align="left">GitHub Stats</h3>
 
 <a href="http://www.github.com/Omeshcoding" align ='center'><img src="https://github-readme-stats.vercel.app/api?username=Omeshcoding&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Omeshcoding's GitHub stats" /></a>
 
@@ -96,15 +97,7 @@
 
 
 
-<div align='left'>
-<h2>Some of my Projects</h2>  
-  
-- Social media webapp  <a href="https://sociable-webapp.onrender.com/login" target="blank">Sociable</a>
-- A wedding management webapp with AI Integration <a href="https://subhamangalplanning.netlify.app" target="blank">SubhaMangalPlanning</a> 
-- A car comparing web app. <a href="https://carease.vercel.app/" target="blank">CarEase</a>
-- A food delivery App <a href="https://eatinglight.netlify.app" target="blank">Eating Light</a> 
 
-</div>
 <div align='left'>
 <h4>Quote I love</h2> 
   
@@ -121,7 +114,7 @@
   
 
 
-### Badges
+#### Badges
 [![@omesha's Holopin board](https://holopin.me/omesha)](https://holopin.io/@omesha)
 
 </div>
