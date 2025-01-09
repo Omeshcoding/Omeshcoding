@@ -4,7 +4,7 @@
 <p >Hi, I'm Umesh Sharma. I am a Software Engineer at 100Devs, dedicated to leveraging technology to drive meaningful advancements within the industry and beyond. I have successfully led and delivered a diverse range of projects while collaborating with teams across various time zones.</p>
   
 <h3>About Me:</h3>
-<p>I'm a full-stack developer who loves creating efficient, user-friendly end-to-end web applications. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success. Interested in AI, BlockChain, Web3.</p>
+<p>I am a developer who loves to create efficient, user-friendly end-to-end web applications, explore new tools and technologies, or do a deep dive on complicated problems while learning through articles or newsletters, or books, anything that I can read😅. I believe challenges are opportunities for growth, and I thrive in collaborative environments where teamwork drives success. Interested in AI, BlockChain, Web3.</p>
   
 
   
