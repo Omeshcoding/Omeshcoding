@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeshcoding&label=Profile%20views&color=0e75b6&style=flat" alt="omeshcoding" />
 
+[![@omesha's Holopin board](https://holopin.me/omesha)](https://holopin.io/@omesha)
+
 <div width="100%" >
 <p >Hi, I'm Umesh Sharma. I am a Software Engineer at 100Devs, dedicated to leveraging technology to drive meaningful advancements within the industry and beyond. I have successfully led and delivered a diverse range of projects while collaborating with teams across various time zones.</p>
   
@@ -112,7 +114,5 @@
   
 
 
-#### Badges
-[![@omesha's Holopin board](https://holopin.me/omesha)](https://holopin.io/@omesha)
 
 </div>
