@@ -17,7 +17,7 @@
   <div align="left">
 -  🔭 Projects that I am working on  <strong> Sociable, FocusFlow</strong>
 
--  Learning Mobile application development with **React Native**
+-  Learning Mobile application development with **React Native**, Ruby and Ruby-on-Rails.
   
 -  💬 Ask me about **JavaScript, React, React Ecosystem, CSS, Node**
 
