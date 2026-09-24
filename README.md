@@ -15,7 +15,7 @@
 
 
   <div align="left">
--  🔭 Projects that I am working on  <strong> Sociable, FocusFlow</strong>
+-  🔭 Projects that I am working on  <strong> POS System</strong>
 
 -  Learning Mobile application development with **React Native**, Ruby and Ruby-on-Rails.
   
